@@ -1,0 +1,120 @@
+﻿Build started 1/30/2012 6:37:41 PM.
+     1>Project "C:\mygit\Racer\BlitzTest1\BlitzTest1.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\mygit\Racer\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\BlitzTest1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Blitztest.cpp
+         Blitztest.cpp
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(24): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(97): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(97): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(97): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(227): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(247): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(247): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(247): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(347): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(396): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(397): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(398): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(407): warning C4305: '*=' : truncation from 'double' to 'float'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(440): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(453): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(454): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(455): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(477): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(478): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(479): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(482): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(488): warning C4305: '*=' : truncation from 'double' to 'float'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(504): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(505): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(506): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(561): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(561): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(590): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(591): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(593): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(593): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(593): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(656): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(656): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(657): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(657): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(670): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(670): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(671): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(672): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(707): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(728): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(729): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(746): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(749): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(752): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(757): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(761): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(764): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(765): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(770): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(774): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(778): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(781): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(782): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(783): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(788): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(792): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(796): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(800): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(803): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(804): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(805): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(806): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(945): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(946): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(969): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\mygit\racer\blitztest1\blitztest.cpp(969): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\BlitzTest1.exe.embed.manifest.res" Debug\BlitzTest1_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\mygit\Racer\Debug\BlitzTest1.exe" /INCREMENTAL /NOLOGO Blitz3dsdk.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\BlitzTest1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\mygit\Racer\Debug\BlitzTest1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\mygit\Racer\Debug\BlitzTest1.lib" /MACHINE:X86 Debug\BlitzTest1.exe.embed.manifest.res
+         Debug\Blitztest.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\BlitzTest1.exe.embed.manifest" /manifest Debug\BlitzTest1.exe.intermediate.manifest
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\BlitzTest1.exe.embed.manifest.res" Debug\BlitzTest1_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\mygit\Racer\Debug\BlitzTest1.exe" /INCREMENTAL /NOLOGO Blitz3dsdk.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\BlitzTest1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\mygit\Racer\Debug\BlitzTest1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\mygit\Racer\Debug\BlitzTest1.lib" /MACHINE:X86 Debug\BlitzTest1.exe.embed.manifest.res
+         Debug\Blitztest.obj
+         BlitzTest1.vcxproj -> C:\mygit\Racer\Debug\BlitzTest1.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\BlitzTest1.unsuccessfulbuild".
+         Touching "Debug\BlitzTest1.lastbuildstate".
+     1>Done Building Project "C:\mygit\Racer\BlitzTest1\BlitzTest1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.10

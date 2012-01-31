@@ -1,0 +1,113 @@
+﻿Build started 1/30/2012 6:21:35 PM.
+     1>Project "C:\Users\Kyle\Documents\Projects\BlitzTest1\BlitzTest1\BlitzTest1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\BlitzTest1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Blitztest.cpp
+         Blitztest.cpp
+     1>Blitztest.cpp(24): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Blitztest.cpp(97): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Blitztest.cpp(97): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Blitztest.cpp(97): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Blitztest.cpp(227): warning C4305: '=' : truncation from 'double' to 'float'
+     1>Blitztest.cpp(247): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>Blitztest.cpp(247): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>Blitztest.cpp(247): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>Blitztest.cpp(347): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Blitztest.cpp(396): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Blitztest.cpp(397): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Blitztest.cpp(398): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Blitztest.cpp(407): warning C4305: '*=' : truncation from 'double' to 'float'
+     1>Blitztest.cpp(440): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Blitztest.cpp(453): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Blitztest.cpp(454): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Blitztest.cpp(455): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Blitztest.cpp(477): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Blitztest.cpp(478): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Blitztest.cpp(479): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Blitztest.cpp(482): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Blitztest.cpp(488): warning C4305: '*=' : truncation from 'double' to 'float'
+     1>Blitztest.cpp(504): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>Blitztest.cpp(505): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>Blitztest.cpp(506): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>Blitztest.cpp(561): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Blitztest.cpp(561): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Blitztest.cpp(590): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Blitztest.cpp(591): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Blitztest.cpp(593): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Blitztest.cpp(593): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Blitztest.cpp(593): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Blitztest.cpp(656): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Blitztest.cpp(656): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Blitztest.cpp(657): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Blitztest.cpp(657): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Blitztest.cpp(670): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Blitztest.cpp(670): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Blitztest.cpp(671): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Blitztest.cpp(672): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Blitztest.cpp(707): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Blitztest.cpp(728): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Blitztest.cpp(729): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Blitztest.cpp(746): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(749): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(752): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(757): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(761): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(764): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(765): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(770): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(774): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(778): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(781): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(782): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(783): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(788): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(792): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(796): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(800): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(803): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(804): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(805): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(806): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(945): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(946): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>Blitztest.cpp(969): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Blitztest.cpp(969): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kyle\Documents\Projects\BlitzTest1\Release\BlitzTest1.exe" /INCREMENTAL:NO /NOLOGO Blitz3dsdk.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\BlitzTest1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Kyle\Documents\Projects\BlitzTest1\Release\BlitzTest1.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Kyle\Documents\Projects\BlitzTest1\Release\BlitzTest1.lib" /MACHINE:X86 Release\Blitztest.obj
+         Generating code
+         Finished generating code
+         BlitzTest1.vcxproj -> C:\Users\Kyle\Documents\Projects\BlitzTest1\Release\BlitzTest1.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Kyle\Documents\Projects\BlitzTest1\Release\BlitzTest1.exe;#1" /manifest Release\BlitzTest1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\BlitzTest1.unsuccessfulbuild".
+         Touching "Release\BlitzTest1.lastbuildstate".
+     1>Done Building Project "C:\Users\Kyle\Documents\Projects\BlitzTest1\BlitzTest1\BlitzTest1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.80
